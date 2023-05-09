@@ -1,0 +1,11 @@
+1.  Ctrl+F1 Quick Start
+2.  Set project name
+3.  Edit CmakeLists.txt 
+4.  Ctrl+F1 Configure
+5.  Ctrl+F1 Build
+6.  Ctrl+F1 Compile Active File (Compile .cpp file)
+7.  cd build
+8.  ./pcl_interactive_icp ~/Blender/monkey.ply 
+
+
+

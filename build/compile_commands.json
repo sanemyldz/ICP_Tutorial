@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sanemyildizkavukoglu/Blender/build",
+  "command": "/usr/bin/g++  -DDISABLE_LIBUSB_1_0 -DDISABLE_OPENNI -DDISABLE_OPENNI2 -DDISABLE_PCAP -DDISABLE_PNG -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /usr/include/pcl-1.10 -isystem /usr/include/eigen3    -g   -o CMakeFiles/pcl_interactive_icp.dir/interactive_icp.cpp.o -c /home/sanemyildizkavukoglu/Blender/interactive_icp.cpp",
+  "file": "/home/sanemyildizkavukoglu/Blender/interactive_icp.cpp"
+}
+]
